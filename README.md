@@ -25,6 +25,8 @@ Our code runs on the following dataset:
 
 -[Campus_Weight](./Data/campus_weight.dat)
 
+Please use `git lfs pull` to pull these datasets.
+
 ### How to Run
 Suppose you have already navigated into the project directory.
 ```sh

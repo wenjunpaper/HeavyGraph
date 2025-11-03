@@ -1,0 +1,4 @@
+Data/caida.dat filter=lfs diff=lfs merge=lfs -text
+Data/caida_weight.dat filter=lfs diff=lfs merge=lfs -text
+Data/campus.dat filter=lfs diff=lfs merge=lfs -text
+Data/campus_weight.dat filter=lfs diff=lfs merge=lfs -text
